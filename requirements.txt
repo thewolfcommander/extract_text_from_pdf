@@ -1,0 +1,10 @@
+cffi==1.14.3
+chardet==3.0.4
+cryptography==3.1.1
+pdfminer==20191125
+pdfminer.six==20200726
+pycparser==2.20
+pycryptodome==3.9.8
+PyPDF2==1.26.0
+six==1.15.0
+sortedcontainers==2.2.2
